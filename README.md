@@ -1,3 +1,3 @@
 Our OET model, trained on a single GPU, showed outstanding performance in ImageNet classification, MS COCO object detection, and ADE20k semantic segmentation, providing a robust and efficient solution for mobile and resource-constrained environments. 
-For instance, the OET-S/T/N models achieved top-1 accuracies of 78.8%, 75.9%, and 73.2% on ImageNet-1k, with parameters and FLOPs of only 5.6M/1.4GFLOPs, 2.3M/0.5GFLOPs, and 1.2M/0.3GFLOPs, respectively, significantly outperforming state-of-the-art models like SwiftFormer, ConvMLP, EMO, MobileViG, and EfficientFormer.
+For instance, the OET-S/T/N models achieved top-1 accuracies of 78.7%, 75.8%, and 73.2% on ImageNet-1k, with parameters and FLOPs of only 5.6M/1.4GFLOPs, 2.3M/0.5GFLOPs, and 1.2M/0.3GFLOPs, respectively, significantly outperforming state-of-the-art models like SwiftFormer, ConvMLP, EMO, MobileViG, and EfficientFormer.
 We introduce the code and hyperparameter configuration file of the SET model.
